@@ -1,0 +1,8 @@
+C:\Documents and Settings\maratb\My Documents\Visual Studio 2005\Projects\Damka\Damka\bin\Debug\Damka.exe
+C:\Documents and Settings\maratb\My Documents\Visual Studio 2005\Projects\Damka\Damka\bin\Debug\Damka.pdb
+C:\Documents and Settings\maratb\My Documents\Visual Studio 2005\Projects\Damka\Damka\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\maratb\My Documents\Visual Studio 2005\Projects\Damka\Damka\obj\Debug\Damka.Form1.resources
+C:\Documents and Settings\maratb\My Documents\Visual Studio 2005\Projects\Damka\Damka\obj\Debug\Damka.Properties.Resources.resources
+C:\Documents and Settings\maratb\My Documents\Visual Studio 2005\Projects\Damka\Damka\obj\Debug\Damka.csproj.GenerateResource.Cache
+C:\Documents and Settings\maratb\My Documents\Visual Studio 2005\Projects\Damka\Damka\obj\Debug\Damka.exe
+C:\Documents and Settings\maratb\My Documents\Visual Studio 2005\Projects\Damka\Damka\obj\Debug\Damka.pdb

@@ -1,0 +1,8 @@
+obj\Debug\Damka.exe
+obj\Debug\Damka.pdb
+bin\Debug\Damka.exe
+bin\Debug\Damka.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Damka.Form1.resources
+obj\Debug\Damka.Properties.Resources.resources
+obj\Debug\Damka.csproj.GenerateResource.Cache
